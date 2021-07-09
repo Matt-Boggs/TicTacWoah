@@ -1,0 +1,10 @@
+C:\Users\mattb.SENTINELSYSTEMS\source\repos\SquareCircleCross\SquareCircleCross\bin\Debug\SquareCircleCross.exe.config
+C:\Users\mattb.SENTINELSYSTEMS\source\repos\SquareCircleCross\SquareCircleCross\bin\Debug\SquareCircleCross.exe
+C:\Users\mattb.SENTINELSYSTEMS\source\repos\SquareCircleCross\SquareCircleCross\bin\Debug\SquareCircleCross.pdb
+C:\Users\mattb.SENTINELSYSTEMS\source\repos\SquareCircleCross\SquareCircleCross\obj\Debug\SquareCircleCross.csprojAssemblyReference.cache
+C:\Users\mattb.SENTINELSYSTEMS\source\repos\SquareCircleCross\SquareCircleCross\obj\Debug\SquareCircleCross.Form1.resources
+C:\Users\mattb.SENTINELSYSTEMS\source\repos\SquareCircleCross\SquareCircleCross\obj\Debug\SquareCircleCross.Properties.Resources.resources
+C:\Users\mattb.SENTINELSYSTEMS\source\repos\SquareCircleCross\SquareCircleCross\obj\Debug\SquareCircleCross.csproj.GenerateResource.cache
+C:\Users\mattb.SENTINELSYSTEMS\source\repos\SquareCircleCross\SquareCircleCross\obj\Debug\SquareCircleCross.csproj.CoreCompileInputs.cache
+C:\Users\mattb.SENTINELSYSTEMS\source\repos\SquareCircleCross\SquareCircleCross\obj\Debug\SquareCircleCross.exe
+C:\Users\mattb.SENTINELSYSTEMS\source\repos\SquareCircleCross\SquareCircleCross\obj\Debug\SquareCircleCross.pdb
